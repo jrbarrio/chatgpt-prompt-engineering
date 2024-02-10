@@ -8,6 +8,8 @@ jupyter = "*"
 openai = "*"
 python-dotenv = "*"
 redlines = "*"
+panel = "*"
+jupyter-bokeh = "*"
 
 [dev-packages]
 
